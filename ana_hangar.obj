@@ -1,4 +1,4 @@
-mtllib ana_hangar.mtl
+mtllib ana_materials.mtl
 o ana_hangar_box
 v -40.0 -9.0 -20.0
 v 40.0 -9.0 -20.0
